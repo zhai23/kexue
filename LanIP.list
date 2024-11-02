@@ -7,4 +7,4 @@
 # IP-CIDR: 1
 # IP-CIDR6: 0
 # TOTAL: 1
-IP-CIDR,192.168.2.30/32,no-resolve
+IP-CIDR,192.168.2.30/32
