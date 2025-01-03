@@ -1,4 +1,3 @@
-# adobe-die
 # 此为屏蔽Adobe盗版检测
 10.92.63.88 ic.adobe.io
 10.92.63.88 cc-api-data.adobe.io
@@ -12,4 +11,3 @@
 10.92.63.88 crs.cr.adobe.com
 10.92.63.88 r3zj0yju1q.adobe.io
 10.92.63.88 cd536oo20y.adobe.io
-# adobe-die
