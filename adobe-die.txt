@@ -9,5 +9,7 @@
 10.92.63.88 lcs-robs.adobe.io
 10.92.63.88 p.typekit.net
 10.92.63.88 crs.cr.adobe.com
+10.92.63.88 cctypekit.adobe.io
 10.92.63.88 r3zj0yju1q.adobe.io
 10.92.63.88 cd536oo20y.adobe.io
+10.92.63.88 3ca52znvmj.adobe.io
