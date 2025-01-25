@@ -1,4 +1,3 @@
-# 此为屏蔽Adobe盗版检测
 10.92.63.88 ic.adobe.io
 10.92.63.88 cc-api-data.adobe.io
 10.92.63.88 www.adobe.com
