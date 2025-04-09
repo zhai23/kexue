@@ -1,7 +1,7 @@
 10.92.63.88 ic.adobe.io
 10.92.63.88 cc-api-data.adobe.io
-# 10.92.63.88 www.adobe.com
-# 10.92.63.88 adobe.com
+10.92.63.88 www.adobe.com
+10.92.63.88 adobe.com
 10.92.63.88 lcs-cops.adobe.io
 10.92.63.88 delegated.adobelogin.com
 10.92.63.88 adobe.io
@@ -15,3 +15,11 @@
 10.92.63.88 5zgzzv92gn.adobe.io
 10.92.63.88 8ncdzpmmrg.adobe.io
 10.92.63.88 7m31guub0q.adobe.io
+10.92.63.88 p13n.adobe.io
+10.92.63.88 ims-prod06.adobelogin.com
+10.92.63.88 adobesearch.adobe.io
+10.92.63.88 adobesearch-uss-an1.adobe.io
+10.92.63.88 platform-cs.adobe.io
+10.92.63.88 platform-cs-jpn3.adobe.io
+10.92.63.88 cai-identity.adobe.io
+10.92.63.88 jc95y2v12r.adobe.io
