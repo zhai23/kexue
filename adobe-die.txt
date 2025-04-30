@@ -23,3 +23,4 @@
 10.92.63.88 platform-cs-jpn3.adobe.io
 10.92.63.88 cai-identity.adobe.io
 10.92.63.88 jc95y2v12r.adobe.io
+10.92.63.88 ph0f2h2csf.adobe.io
