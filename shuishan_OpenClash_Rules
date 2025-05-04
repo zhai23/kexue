@@ -14,22 +14,21 @@
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/rule/Custom_Direct.list
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/rule/Custom_Proxy.list
-ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GoogleFCM/GoogleFCM.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/rule/Steam_CDN.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PrivateTracker/PrivateTracker.list
-ruleset=📲 Telegram,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
-ruleset=🕊️ Twitter(X),https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
-ruleset=💬 ChatGPT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list
-ruleset=💬 Copilot,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.list
-ruleset=🚀 GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
-ruleset=🍎 苹果服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
-ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
+ruleset=📲 国外社交,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
+ruleset=📲 国外社交,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
+ruleset=💬 AI服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list
+ruleset=💬 AI服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.list
+ruleset=📖 GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
+ruleset=Ⓜ️ 微软/苹果,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
+ruleset=Ⓜ️ 微软/苹果,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
 ruleset=✨ API,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Gemini/Gemini.yaml
 ruleset=🔭 谷歌服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
+ruleset=🔭 谷歌服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
+ruleset=🔭 谷歌服务,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GoogleFCM/GoogleFCM.list
 ruleset=🌎 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
 ruleset=🌎 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
 ruleset=🌎 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
@@ -38,7 +37,7 @@ ruleset=🌎 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rul
 ruleset=🌎 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
 ruleset=🌎 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.list
 ruleset=🌎 国外媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
+ruleset=🛒 GFW列表,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
@@ -47,30 +46,29 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rul
 ruleset=🎯 全球直连,[]GEOSITE,category-public-tracker
 ruleset=🎯 全球直连,[]GEOIP,LAN,no-resolve
 ruleset=🎯 全球直连,[]GEOIP,CN,no-resolve
-ruleset=🐟 漏网之鱼,[]FINAL
+ruleset=🐟 其他流量,[]FINAL
 ;设置规则标志位结束
 
 ;设置节点分组标志位
-custom_proxy_group=🚀 节点选择`select`[]🎯 全球直连`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🇹🇼 台湾节点`[]🇰🇷 韩国节点`[]🇨🇦 加拿大节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇩🇪 德国节点`[]🇳🇱 荷兰节点`[]🇹🇷 土耳其节点`[]🇻🇳 越南节点`(流量|重置|到期)
+custom_proxy_group=🚀 节点选择`select`[]🎯 全球直连`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🚩 其它节点``(流量|重置|到期)
 custom_proxy_group=🚀 手动切换`select`[]🎯 全球直连`.*
 custom_proxy_group=♻️ 自动选择`url-test`.*`http://cp.cloudflare.com/generate_204`300,,50
 custom_proxy_group=👓 VR设备`select`[]🎯 全球直连`.*
 custom_proxy_group=✨ 自定义1`select`[]🎯 全球直连`.*
-custom_proxy_group=🚀 GitHub`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🇹🇼 台湾节点`[]🇰🇷 韩国节点`[]🇨🇦 加拿大节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇩🇪 德国节点`[]🇳🇱 荷兰节点`[]🇹🇷 土耳其节点`[]🇻🇳 越南节点
-custom_proxy_group=📲 国外社交`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🇹🇼 台湾节点`[]🇰🇷 韩国节点`[]🇨🇦 加拿大节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇩🇪 德国节点`[]🇳🇱 荷兰节点`[]🇹🇷 土耳其节点`[]🇻🇳 越南节点
-custom_proxy_group=💬 ChatGPT`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🇹🇼 台湾节点`[]🇰🇷 韩国节点`[]🇨🇦 加拿大节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇩🇪 德国节点`[]🇳🇱 荷兰节点`[]🇹🇷 土耳其节点`[]🇻🇳 越南节点
-custom_proxy_group=💬 Copilot`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇺🇸 美国节点`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🇹🇼 台湾节点`[]🇰🇷 韩国节点`[]🇨🇦 加拿大节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇩🇪 德国节点`[]🇳🇱 荷兰节点`[]🇹🇷 土耳其节点`[]🇻🇳 越南节点
-custom_proxy_group=🌎 国外媒体`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇸🇬 新加坡节点`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇹🇼 台湾节点`[]🇰🇷 韩国节点`[]🇨🇦 加拿大节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇩🇪 德国节点`[]🇳🇱 荷兰节点`[]🇹🇷 土耳其节点`[]🇻🇳 越南节点
-custom_proxy_group=🔭 谷歌服务`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🇹🇼 台湾节点`[]🇰🇷 韩国节点`[]🇨🇦 加拿大节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇩🇪 德国节点`[]🇳🇱 荷兰节点`[]🇹🇷 土耳其节点`[]🇻🇳 越南节点
-custom_proxy_group=🍎 苹果服务`select`[]🎯 全球直连`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🇹🇼 台湾节点`[]🇰🇷 韩国节点`[]🇨🇦 加拿大节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇩🇪 德国节点`[]🇳🇱 荷兰节点`[]🇹🇷 土耳其节点`[]🇻🇳 越南节点
-custom_proxy_group=Ⓜ️ 微软服务`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🇹🇼 台湾节点`[]🇰🇷 韩国节点`[]🇨🇦 加拿大节点`[]🇬🇧 英国节点`[]🇫🇷 法国节点`[]🇩🇪 德国节点`[]🇳🇱 荷兰节点`[]🇹🇷 土耳其节点`[]🇻🇳 越南节点
-custom_proxy_group=🐟 漏网之鱼`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`.*
-custom_proxy_group=🎯 全球直连`select`[]DIRECT
+custom_proxy_group=🛒 GFW列表`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🚩 其它节点`.*
+custom_proxy_group=📖 GitHub`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🚩 其它节点`
+custom_proxy_group=📲 国外社交`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🚩 其它节点`
+custom_proxy_group=💬 AI服务`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🚩 其它节点`
+custom_proxy_group=🌎 国外媒体`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇸🇬 新加坡节点`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🚩 其它节点`
+custom_proxy_group=🔭 谷歌服务`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🚩 其它节点`
+custom_proxy_group=Ⓜ️ 微软/苹果`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]🇭🇰 香港节点`[]🇺🇸 美国节点`[]🇯🇵 日本节点`[]🇸🇬 新加坡节点`[]🚩 其它节点`
+custom_proxy_group=🐟 其他流量`select`[]🎯 全球直连`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`.*
 custom_proxy_group=🇭🇰 香港节点`select`(港|HK|hk|Hong Kong|HongKong|hongkong)
 custom_proxy_group=🇺🇸 美国节点`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)
 custom_proxy_group=🇯🇵 日本节点`select`(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan)
 custom_proxy_group=🇸🇬 新加坡节点`select`(新加坡|坡|狮城|SG|Singapore)
-
+custom_proxy_group=🚩 其它节点`select`(俄|乌|澳|土|阿|尼|菲|泰|越|马|印|巴|德|法|意|韩|澳|英|台)
+custom_proxy_group=🎯 全球直连`select`[]DIRECT
 ;设置分组标志位
 
 ;下方参数请勿修改
