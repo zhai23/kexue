@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         获取iframe链接并复制小游戏地址
-// @namespace    https://bbs.tampermonkey.net.cn/
+// @namespace    zhai
 // @version      0.5.0
 // @description  获取当前网页中指定iframe元素的src链接，一键复制小游戏地址到剪贴板
 // @author       翟成涛
@@ -9,6 +9,11 @@
 // @match        *://*.sensortower-china.com/*
 // @match        *://sensortower-china.com/*
 // @grant        none
+// @license           AGPL License
+// @charset		      UTF-8
+// @run-at            document-idle
+// @downloadURL https://raw.githubusercontent.com/zhai23/kexue/refs/heads/main/sensortower%E5%A4%8D%E5%88%B6%E8%AF%95%E7%8E%A9%E9%93%BE%E6%8E%A5.js
+// @updateURL https://raw.githubusercontent.com/zhai23/kexue/refs/heads/main/sensortower%E5%A4%8D%E5%88%B6%E8%AF%95%E7%8E%A9%E9%93%BE%E6%8E%A5.js
 // ==/UserScript==
 
 (function() {
