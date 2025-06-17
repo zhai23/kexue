@@ -12,8 +12,8 @@
 // @license           AGPL License
 // @charset		      UTF-8
 // @run-at            document-idle
-// @downloadURL https://raw.githubusercontent.com/zhai23/kexue/refs/heads/main/复制试玩链接.js
-// @updateURL https://raw.githubusercontent.com/zhai23/kexue/refs/heads/main/复制试玩链接.js
+// @downloadURL https://raw.githubusercontent.com/zhai23/kexue/refs/heads/main/sensortower复制试玩链接.js
+// @updateURL https://raw.githubusercontent.com/zhai23/kexue/refs/heads/main/sensortower复制试玩链接.js
 // ==/UserScript==
 
 (function() {
