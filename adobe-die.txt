@@ -26,3 +26,4 @@
 8.8.8.8 ph0f2h2csf.adobe.io
 8.8.8.8 2ftem87osk.adobe.io
 8.8.8.8 b5kbg2ggog.adobe.io
+8.8.8.8 guzg78logz.adobe.io
