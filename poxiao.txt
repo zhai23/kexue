@@ -1,1 +1,2 @@
 10.92.63.3 poxiaowiki.com
+1.1.1.1 chungames.cn
